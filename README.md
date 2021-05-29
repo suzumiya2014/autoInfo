@@ -1,0 +1,2 @@
+# autoInfo
+Just for fun
